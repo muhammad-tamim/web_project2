@@ -306,3 +306,44 @@ header {
 hr{
     border-color: #d1d1d1;
 }
+
+/* Footer Section */
+#footer_section{
+    background-color: #FFF8F3;
+    height: 650px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 130px;
+}
+.footer_message > input, textarea{
+    display: block;
+    width: 461px;
+}
+.footer_message > input{
+    border-radius: 5px;
+    height: 64px;
+    margin-bottom: 24px;
+    border-style: none;
+    padding-left: 30px;
+}
+.footer_message > textarea{
+    height: 180px;
+    border-radius: 5px;
+    border-style: none;
+    padding-left: 30px;
+    padding-top: 18px;
+    resize: none;
+    margin-bottom: 24px;
+}
+.footer_text{
+    width: 562px;
+    height: 56px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.footer_social_links > img{
+    margin-right: 20px;
+}
+.footer_message_heading{
+    margin-bottom: 28px;   
+}
