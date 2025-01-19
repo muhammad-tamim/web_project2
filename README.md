@@ -1,5 +1,6 @@
-# Project Description:
-This is a simple web development project created using basic HTML and CSS. The primary goal of this project was to apply the fundamental concepts and skills I had learned over the past couple of weeks.
+## Project Name: Portfolio
+## Project Description:
+This is a simple web development project created using HTML and CSS, with a focus on learning and applying Flexbox. The primary objective of this project was to implement the fundamental concepts and techniques I have studied over the past few weeks.
 
 ## Note:
 The website is not responsive. My display resolution is 1280 x 720 (HD) pixels, so I designed this webpage based on my screen. For the best viewing experience, please resize your browser window to match this resolution.
