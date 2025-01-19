@@ -141,9 +141,11 @@
     font-size: 20px;
 }
 #banner_section{
-    background-color: #FFF8F3;
     height: 837px;
-    background: url(/images/developer.png) no-repeat left center, url(/images/header_bg.png) no-repeat right bottom;
+    background: url(../images/developer.png) no-repeat left center, url(../images/header_bg.png) no-repeat right bottom;
+}
+header{
+    background-color: #FFF8F3;
 }
 .banner_container{
     display: flex;
@@ -164,4 +166,31 @@
 }
 .banner_image{
     margin-top: 48px;
+}
+
+/* About Me Section */
+#about_me_section{
+    background-color: #FFF8F3;
+    width: 1140px;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about_me_container{
+    width: 827px;
+    height: 288px;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+.about_me_heading{
+    margin-bottom: 30px;
+}
+.about_me_text{
+    margin-bottom: 30px;
+}
+.about_me_information{
+    display: flex;
+    justify-content: center;
+    column-gap: 50px;
 }
