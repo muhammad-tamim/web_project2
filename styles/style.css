@@ -272,3 +272,37 @@ header {
 .what_i_do_card_heading{
     margin-bottom: 20px;
 }
+
+/* Summary Section */
+.summary_section_header{
+    text-align: center;
+    margin-bottom: 113px;
+}
+.summary_section_button{
+    text-align: center;
+    margin-top: 50px;
+}
+.summary_container{
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+}
+.summary_item_contianer_heading{
+    margin-bottom: 30px;
+}
+.summary_item_content{
+    width: 511px;
+    height: 175px;
+}
+.summary_item_sub_heading{
+    margin-bottom: 20px;   
+}
+.summary_item_text{
+    margin-bottom: 30px;
+}
+.summary_item_heading{
+    margin-top: 30px;
+}
+hr{
+    border-color: #d1d1d1;
+}
